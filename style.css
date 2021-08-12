@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+/*img{
+    height:300px;
+    width: 500px;
+    border-radius: 30px;
+    margin-left: 400px;
+    margin-top: 130px;
+    padding: 20px;
+    background-color: purple;
+    border-radius:10%;
+    border:ridge;
+    
+    }
+    body{
+        background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png");
+        
+    }
+    
+    }
+
+    <img src="image_css.jpg" height="30px"width="60px">
